@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jumarfarook735
 - 👀 I’m interested in web devloping...
-- 🌱 I’m currently learning .python full stack devlopment..
+- 🌱 I’m currently learning html,css & javascript...
 - 💞️ I’m looking to collaborate on web development projects and open-source contributions..
 - 📫 How to reach me farooku7350@gmail.com
 - 😄 Pronouns: He/Him
